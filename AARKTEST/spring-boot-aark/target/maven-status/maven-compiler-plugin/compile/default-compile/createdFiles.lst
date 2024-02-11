@@ -1,0 +1,16 @@
+com\example\springbootaark\Configuration\SecurityConfig.class
+com\example\springbootaark\Service\ProductService.class
+com\example\springbootaark\Entity\UserInfo.class
+com\example\springbootaark\Exceptions\CustomizedException.class
+com\example\springbootaark\Service\JwtService.class
+com\example\springbootaark\Filter\JwtAuthFilter.class
+com\example\springbootaark\SpringBootAarkApplication.class
+com\example\springbootaark\LogSetup.class
+com\example\springbootaark\Entity\UserInfoDetails.class
+com\example\springbootaark\Controller\UserController.class
+com\example\springbootaark\Repo\ProductRepository.class
+com\example\springbootaark\Repo\UserInfoRepository.class
+com\example\springbootaark\Service\UserInfoService.class
+com\example\springbootaark\Controller\ProductController.class
+com\example\springbootaark\Entity\AuthRequest.class
+com\example\springbootaark\Entity\Product.class
